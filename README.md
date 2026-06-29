@@ -1,8 +1,16 @@
 # Free Developer Tools Directory | I Love Free
 
+<!-- split-by-split-fdt-en v1 -->
+
 ![](ilovefree.png)
 
 > A curated directory of 1,154+ free developer tools and services across 8 categories.
+
+---
+
+I Love Free
+
+👉 **[iLoveFree.com](https://www.ilovefree.com/free-dev-tools/cloud-infrastructure/)** is your ultimate directory for free developer tools and services. Helping you discover the best free dev resources across the web.
 
 ---
 
@@ -74,8 +82,3 @@
   - [Remote Desktop Tools](./08-mobile-other.md#remote-desktop-tools)
   - [Other Free Resources](./08-mobile-other.md#other-free-resources)
 
----
-
-I Love Free
-
-👉 **[iLoveFree.com](https://www.ilovefree.com/free-dev-tools/cloud-infrastructure/)** is your ultimate directory for free developer tools and services. Helping you discover the best free dev resources across the web.
