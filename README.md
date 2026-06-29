@@ -1,0 +1,81 @@
+# Free Developer Tools Directory | I Love Free
+
+![](ilovefree.png)
+
+> A curated directory of 1,154+ free developer tools and services across 8 categories.
+
+---
+
+**📖 Table of Contents — 8 categories**
+
+- [Cloud & Infrastructure](./01-cloud-infrastructure.md)
+  - [Major Cloud Providers](./01-cloud-infrastructure.md#major-cloud-providers)
+  - [Cloud management solutions](./01-cloud-infrastructure.md#cloud-management-solutions)
+  - [CDN and Protection](./01-cloud-infrastructure.md#cdn-and-protection)
+  - [PaaS](./01-cloud-infrastructure.md#paas)
+  - [BaaS](./01-cloud-infrastructure.md#baas)
+  - [Web Hosting](./01-cloud-infrastructure.md#web-hosting)
+  - [DNS](./01-cloud-infrastructure.md#dns)
+  - [Domain](./01-cloud-infrastructure.md#domain)
+  - [IaaS](./01-cloud-infrastructure.md#iaas)
+  - [Managed Data Services](./01-cloud-infrastructure.md#managed-data-services)
+  - [Tunneling, WebRTC, Web Socket Servers and Other Routers](./01-cloud-infrastructure.md#tunneling-webrtc-web-socket-servers-and-other-routers)
+  - [Storage and Media Processing](./01-cloud-infrastructure.md#storage-and-media-processing)
+- [Code & Development](./02-code-development.md)
+  - [Source Code Repos](./02-code-development.md#source-code-repos)
+  - [Code Generation](./02-code-development.md#code-generation)
+  - [Code Quality](./02-code-development.md#code-quality)
+  - [Code Search and Browsing](./02-code-development.md#code-search-and-browsing)
+  - [CI and CD](./02-code-development.md#ci-and-cd)
+  - [Low-code Platform](./02-code-development.md#low-code-platform)
+  - [Package Build System](./02-code-development.md#package-build-system)
+  - [IDE and Code Editing](./02-code-development.md#ide-and-code-editing)
+  - [Docker Related](./02-code-development.md#docker-related)
+- [Testing & Monitoring](./03-testing-monitoring.md)
+  - [Testing](./03-testing-monitoring.md#testing)
+  - [Log Management](./03-testing-monitoring.md#log-management)
+  - [Monitoring](./03-testing-monitoring.md#monitoring)
+  - [Crash and Exception Handling](./03-testing-monitoring.md#crash-and-exception-handling)
+  - [Analytics, Events and Statistics](./03-testing-monitoring.md#analytics-events-and-statistics)
+  - [Visitor Session Recording](./03-testing-monitoring.md#visitor-session-recording)
+- [Security & Privacy](./04-security-privacy.md)
+  - [Security and PKI](./04-security-privacy.md#security-and-pki)
+  - [Authentication, Authorization, and User Management](./04-security-privacy.md#authentication-authorization-and-user-management)
+  - [Privacy Management](./04-security-privacy.md#privacy-management)
+- [Data & AI](./05-data-ai.md)
+  - [APIs, Data, and ML](./05-data-ai.md#apis-data-and-ml)
+  - [Artifact Repos](./05-data-ai.md#artifact-repos)
+  - [Search](./05-data-ai.md#search)
+  - [Generative AI](./05-data-ai.md#generative-ai)
+  - [Data Visualization on Maps](./05-data-ai.md#data-visualization-on-maps)
+- [Communication & Collaboration](./06-communication-collaboration.md)
+  - [Tools for Teams and Collaboration](./06-communication-collaboration.md#tools-for-teams-and-collaboration)
+  - [CMS](./06-communication-collaboration.md#cms)
+  - [Management System](./06-communication-collaboration.md#management-system)
+  - [Messaging and Streaming](./06-communication-collaboration.md#messaging-and-streaming)
+  - [Translation Management](./06-communication-collaboration.md#translation-management)
+  - [Email](./06-communication-collaboration.md#email)
+  - [Feature Toggles Management Platforms](./06-communication-collaboration.md#feature-toggles-management-platforms)
+  - [Issue Tracking and Project Management](./06-communication-collaboration.md#issue-tracking-and-project-management)
+  - [Dev Blogging Sites](./06-communication-collaboration.md#dev-blogging-sites)
+  - [Commenting Platforms](./06-communication-collaboration.md#commenting-platforms)
+- [Design & UI](./07-design-ui.md)
+  - [Font](./07-design-ui.md#font)
+  - [Forms](./07-design-ui.md#forms)
+  - [Design and UI](./07-design-ui.md#design-and-ui)
+  - [Screenshot APIs](./07-design-ui.md#screenshot-apis)
+- [Mobile & Other](./08-mobile-other.md)
+  - [Mobile App Distribution and Feedback](./08-mobile-other.md#mobile-app-distribution-and-feedback)
+  - [Education and Career Development](./08-mobile-other.md#education-and-career-development)
+  - [International Mobile Number Verification API and SDK](./08-mobile-other.md#international-mobile-number-verification-api-and-sdk)
+  - [Payment and Billing Integration](./08-mobile-other.md#payment-and-billing-integration)
+  - [Flutter Related and Building IOS Apps without Mac](./08-mobile-other.md#flutter-related-and-building-ios-apps-without-mac)
+  - [Miscellaneous](./08-mobile-other.md#miscellaneous)
+  - [Remote Desktop Tools](./08-mobile-other.md#remote-desktop-tools)
+  - [Other Free Resources](./08-mobile-other.md#other-free-resources)
+
+---
+
+I Love Free
+
+👉 **[iLoveFree.com](https://www.ilovefree.com/free-dev-tools/cloud-infrastructure/)** is your ultimate directory for free developer tools and services. Helping you discover the best free dev resources across the web.
