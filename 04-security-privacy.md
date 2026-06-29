@@ -1,5 +1,7 @@
 # Security & Privacy
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-dev-tools/security-privacy/
+
 [⬆️ Back to README](./README.md)
 
 ## Security & Privacy | I Love Free

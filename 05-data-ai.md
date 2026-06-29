@@ -1,5 +1,7 @@
 # Data & AI
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-dev-tools/data-ai/
+
 [⬆️ Back to README](./README.md)
 
 ## Data & AI | I Love Free
