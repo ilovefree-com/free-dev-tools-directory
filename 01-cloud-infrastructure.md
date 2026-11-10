@@ -183,6 +183,7 @@
 -   [pythonanywhere.com](https://www.pythonanywhere.com/) - Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
 -   [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
 -   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
+-   [Zenifra](https://www.zenifra.com/en) - Brazilian PaaS: deploy from GitHub, Forgejo or a Docker image, with managed databases and servers in Brazil. The free plan includes 1 HTTP project, 1 PostgreSQL, 1 Valkey Cache and 1 Valkey Queue, plus 5 GB of storage, no credit card required. Sign-up requires a Brazilian CPF or CNPJ.
 
 ### BaaS
 
