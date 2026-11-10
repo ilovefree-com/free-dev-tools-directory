@@ -183,6 +183,7 @@
 -   [pythonanywhere.com](https://www.pythonanywhere.com/) - Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
 -   [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
 -   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
+-   [Zenifra](https://www.zenifra.com/en) - Brazilian PaaS: deploy from GitHub, Forgejo or a Docker image, with managed databases and servers in Brazil. The free plan includes 1 HTTP project, 1 PostgreSQL, 1 Valkey Cache and 1 Valkey Queue, plus 5 GB of storage, no credit card required. Sign-up requires a Brazilian CPF or CNPJ.
 
 ### BaaS
 
@@ -297,6 +298,7 @@
 -   [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and lets you publish SQL queries as managed HTTP APIs. There is no time limit on free-tier, 10GB storage + 1000 API requests per day.
 -   [Turso by ChiselStrike](https://turso.tech/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
 -   [Upstash](https://upstash.com/) - Serverless Redis with free tier up to 500K monthly commands, 256MB max database size, and 20 concurrent connections
+-   [Zenifra](https://www.zenifra.com/en) - Brazilian cloud with managed PostgreSQL and Valkey on servers in Brazil. The free plan includes 1 PostgreSQL (0.3 vCPU, 256 MB RAM, 1 GB storage, daily backup kept for 3 days), 1 Valkey Cache and 1 Valkey Queue, no credit card required. Sign-up requires a Brazilian CPF or CNPJ.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
