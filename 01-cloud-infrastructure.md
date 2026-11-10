@@ -298,6 +298,7 @@
 -   [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and lets you publish SQL queries as managed HTTP APIs. There is no time limit on free-tier, 10GB storage + 1000 API requests per day.
 -   [Turso by ChiselStrike](https://turso.tech/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
 -   [Upstash](https://upstash.com/) - Serverless Redis with free tier up to 500K monthly commands, 256MB max database size, and 20 concurrent connections
+-   [Zenifra](https://www.zenifra.com/en) - Brazilian cloud with managed PostgreSQL and Valkey on servers in Brazil. The free plan includes 1 PostgreSQL (0.3 vCPU, 256 MB RAM, 1 GB storage, daily backup kept for 3 days), 1 Valkey Cache and 1 Valkey Queue, no credit card required. Sign-up requires a Brazilian CPF or CNPJ.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
